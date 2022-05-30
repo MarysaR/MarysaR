@@ -36,6 +36,7 @@ I am currently studying Fullstack Developer (BAC+2) with the @WildCodeSchool, an
 
 
 ### Stats VsCode
+- https://wakatime.com/@MarysaR ((if the stats do not appear, click here) 
 <a href='[https://github.com/MarysaR/Trombinoscope](https://wakatime.com/@MarysaR)'><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=synthwave" />
 
 
