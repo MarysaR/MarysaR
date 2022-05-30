@@ -1,10 +1,10 @@
 # Welcome !
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysaR&theme=synthwave&layout=compac" /> <br>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marysar&show_icons=true&theme=synthwave" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marysar&theme=synthwave&layout=compac" />
-
-
+## Hello ! <br>
 I am Marysa, I live in Haute-Savoie in the 74 in France. <br>
-A young junior developer who loves to learn with an unwavering motivation and determination! 
+A young junior developer who loves to learn with an unwavering motivation and determination ! 
 I am currently studying Fullstack Developer (BAC+2) with the @WildCodeSchool, and I would like to continue with a work-study program as an Application Developer (BAC+3/4). 
 
 ### 🌱 My current stack :  
@@ -25,13 +25,18 @@ I am currently studying Fullstack Developer (BAC+2) with the @WildCodeSchool, an
 - React Native
 
 ### Projects
-- Project 1 WCS Trombinoscope : <br><br>
- <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=synthwave" /></a> <br><br>
-- Project 2 SerialSeries : <br><br>
+- Hackaton 1 in collaboration - 36h | Theme : Ecology  | 12 - 13 may 2022 <br><br>
+ <a href='https://github.com/trueChoan/Hackaton'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trueChoan&repo=Hackaton&show_owner=true&theme=synthwave" /></a> <br><br>
+
+- Project 2 in collaboration SerialSeries | AGILE/SCRUM | 6 weeks | april - may 2022 <br><br>
 <a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-serial-series'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-serial-series&show_owner=true&theme=synthwave"/> <br><br> </a>
 
+- Project 1 WCS Trombinoscope in collaboration | 4 weeks | march 2022: <br><br>
+ <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=synthwave" /></a> <br><br>
+
+
 ### Stats VsCode
-[![Marysa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&show_icons=true&theme=synthwave)](https://github.com/marysar/github-readme-stats) <br><br>
+<a href='[https://github.com/MarysaR/Trombinoscope](https://wakatime.com/@MarysaR)'><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=synthwave" />
 
 
 
