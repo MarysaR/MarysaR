@@ -1,5 +1,5 @@
 # Welcome !
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&hide=issues&theme=synthwave" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysaR&theme=synthwave&layout=compac" /> <br>
 
 ## Hello ! <br>
