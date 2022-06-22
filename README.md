@@ -35,9 +35,10 @@ I am currently studying Fullstack Developer (BAC+2) with the @WildCodeSchool, an
  <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=synthwave" /></a> <br><br>
 
 
-### Stats VsCode
+### VScode Week Stats
 - https://wakatime.com/@MarysaR ((if the stats do not appear, click here) 
-<a href='[https://github.com/MarysaR/Trombinoscope](https://wakatime.com/@MarysaR)'><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=synthwave" />
+
 
 
 
