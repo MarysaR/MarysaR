@@ -1,45 +1,49 @@
 # Welcome !
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&hide=issues&theme=synthwave" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysaR&theme=synthwave&layout=compac" /> <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&hide=issues&theme=midnight-purple" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysaR&theme=midnight-purple&layout=compac" /> <br>
 
 ## Hello ! <br>
-I am Marysa, I live in Haute-Savoie in the 74 in France. <br>
+I am Marysa, I live in Ain in the 01 in France. <br>
 A young junior developer who loves to learn with an unwavering motivation and determination ! 
-I am currently studying Fullstack Developer (BAC+2) with the @WildCodeSchool, and I would like to continue with a work-study program as an Application Developer (BAC+3/4). 
+I am currently studying Software Application Designer & Developer (BAC+3/4) with the @WildCodeSchool.
 
 ### 🌱 My current stack :  
-- PHP 8
+- PHP 8 / PHP Natif
 - Symfony 6
 - Twig
 - MVC 
-- Javascript 
-- MySQL 
+- MySQL
 
-### My desired stacks (for Application Developer): 
-- PHP 8 / Symfony 6 (big backend appetence but not insensitive to the frontend)
-- React
+- Javascript 
+- React 
+- React Native
 - Node.js
+- PostGre
 - Typescript 
 - GraphQl
+
+### My desired stacks :
+- Java JEE
 - Flutter 
-- React Native
 
 ### Projects
-- Hackaton 1 in collaboration - 36h | Theme : Ecology  | 12 - 13 may 2022 <br><br>
- <a href='https://github.com/trueChoan/Hackaton'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trueChoan&repo=Hackaton&show_owner=true&theme=synthwave" /></a> <br><br>
 
+ - Project 3 in collaboration Evote | Real Client Yannick Couturier | AGILE/SCRUM | 9 weeks | may - July 2022 <br><br>
+ ----- https://github.com/WildCodeSchool/2022-03-php-remote-evote
+ <!-- <a href='https://github.com/WildCodeSchool/2022-03-php-remote-evote'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=Hackaton&show_owner=true&theme=midnight-purple"/> --> <br>
+ 
+ - Hackaton 1 in collaboration - 36h | Theme : Ecology  | 12 - 13 may 2022 <br><br>
+ <a href='https://github.com/trueChoan/Hackaton'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trueChoan&repo=Hackaton&show_owner=true&theme=midnight-purple" /></a> <br><br>
+ 
 - Project 2 in collaboration SerialSeries | AGILE/SCRUM | 6 weeks | april - may 2022 <br><br>
-<a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-serial-series'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-serial-series&show_owner=true&theme=synthwave"/> <br><br> </a>
+<a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-serial-series'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-serial-series&show_owner=true&theme=midnight-purple"/> <br><br> </a>
 
 - Project 1 WCS Trombinoscope in collaboration | 4 weeks | march 2022: <br><br>
- <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=synthwave" /></a> <br><br>
-
+ <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=midnight-purple" /></a> <br><br>
 
 ### VScode Week Stats
 - (if the stats do not appear, click here => https://wakatime.com/@MarysaR)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=synthwave" />
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=midnight-purple" />
 
 
 <!--
