@@ -30,13 +30,13 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 ### Projects Sept 2022 - Sept 2023
 - Project Ecovoit | Software Application Designer & Developer (BAC+3/4) with the @WildCodeSchool <br>
 
-- Front <br><br>
+#### Front <br><br>
 <a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-front&show_owner=true&theme=midnight-purple"/> <br><br> </a>
 
-- Back <br><br>
+#### Back <br><br>
 <a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-back'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-back&show_owner=true&theme=midnight-purple"/> <br><br> </a>
 
-- Mobil <br><br>
+#### Mobil <br><br>
 <a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-mobile'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-mobile&show_owner=true&theme=midnight-purple"/> <br><br> </a>
 
 
