@@ -27,6 +27,8 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 - Java JEE
 - Flutter 
 
+!
+
 ### Projects Sept 2022 - Sept 2023
 - Project Ecovoit Mobil <br><br>
 <a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-mobile'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-mobile&show_owner=true&theme=midnight-purple"/> <br><br> </a>
