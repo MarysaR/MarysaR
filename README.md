@@ -43,7 +43,6 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 ### Projects Feb - July 2022
 
  - Project 3 in collaboration Evote | Real Client : Yannick Couturier | AGILE/SCRUM | 9 weeks | may - July 2022 <br><br>
- ----- https://github.com/WildCodeSchool/2022-03-php-remote-evote
  <a href='https://github.com/WildCodeSchool/2022-03-php-remote-evote'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-evote&show_owner=true&theme=midnight-purple"/></a> <br> <br>
  
  - Hackaton 1 in collaboration - 36h | Theme : Ecology  | 12 - 13 may 2022 <br><br>
