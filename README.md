@@ -27,17 +27,24 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 - Java JEE
 - Flutter 
 
-!
-
 ### Projects Sept 2022 - Sept 2023
-- Project Ecovoit Mobil <br><br>
+- Project Ecovoit | Software Application Designer & Developer (BAC+3/4) with the @WildCodeSchool <br>
+
+- Front <br><br>
+<a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-front&show_owner=true&theme=midnight-purple"/> <br><br> </a>
+
+- Back <br><br>
+<a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-back'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-back&show_owner=true&theme=midnight-purple"/> <br><br> </a>
+
+- Mobil <br><br>
 <a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-mobile'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-mobile&show_owner=true&theme=midnight-purple"/> <br><br> </a>
+
 
 ### Projects Feb - July 2022
 
  - Project 3 in collaboration Evote | Real Client : Yannick Couturier | AGILE/SCRUM | 9 weeks | may - July 2022 <br><br>
  ----- https://github.com/WildCodeSchool/2022-03-php-remote-evote
- <a href='https://github.com/WildCodeSchool/2022-03-php-remote-evote'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-evote&show_owner=true&theme=midnight-purple"/> <br>
+ <a href='https://github.com/WildCodeSchool/2022-03-php-remote-evote'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-evote&show_owner=true&theme=midnight-purple"/></a> <br>
  
  - Hackaton 1 in collaboration - 36h | Theme : Ecology  | 12 - 13 may 2022 <br><br>
  <a href='https://github.com/trueChoan/Hackaton'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trueChoan&repo=Hackaton&show_owner=true&theme=midnight-purple" /></a> <br><br>
