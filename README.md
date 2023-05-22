@@ -50,8 +50,7 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
  <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=midnight-purple" /></a> <br><br>
 
 ### VScode Week Stats
-- (if the stats do not appear, click here => https://wakatime.com/@MarysaR)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=midnight-purple" />
+https://wakatime.com/@MarysaR
 
 
 <!--
