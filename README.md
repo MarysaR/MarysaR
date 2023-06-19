@@ -27,8 +27,6 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 
 #### Front <br><br>
 -- https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front <br><br> 
-<a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front'> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-front&show_owner=true&theme=midnight-purple"/></a> <br><br>
 
 #### Back <br><br>
 -- https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-back <br><br>
