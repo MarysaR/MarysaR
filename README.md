@@ -52,9 +52,6 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 ### <summary>:zap: VScode Weekly Stats and Coding streak</summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarysaR&theme=midnight-purple" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marysar&" alt="marysar" /></p>
-
-
-</details>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marysar&label=Profile%20views&color=0e75b6&style=flat" alt="marysar" /> </p>
 
 
