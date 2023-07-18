@@ -1,6 +1,6 @@
 # Welcome on my profile !
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&hide=issues&theme=midnight-purple" alt="marysar" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marysar&show_icons=true&locale=en&theme=midnight-purple&layout=compact" alt="marysar" /></p> <br> <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marysar&show_icons=true&locale=en&theme=midnight-purple&layout=compact" alt="marysar" /></p>
 
 ### Hello ! <br>
 I am a young junior developer who loves to learn with an unwavering motivation and determination ! 
@@ -49,7 +49,7 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 <a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-serial-series'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-serial-series&show_owner=true&theme=midnight-purple"/> <br><br> </a>
 
 - Project 1 WCS Trombinoscope in collaboration | 4 weeks | march 2022: <br><br>
- <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=midnight-purple" /></a> <br><br>
+ <a href='https://github.com/MarysaR/Trombinoscope'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=midnight-purple" /></a>
 
  #
 
