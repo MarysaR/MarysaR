@@ -1,6 +1,9 @@
 # Welcome !
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&hide=issues&theme=midnight-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&hide=issues&theme=midnight-purple" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysaR&theme=midnight-purple&layout=compac" /> <br>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marysar&show_icons=true&locale=en&theme=midnight-purple&layout=compact" alt="marysar" /></p>
 
 ## Hello ! <br>
 I am Marysa, I live in Ain in the 01 in France. <br>
