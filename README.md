@@ -1,19 +1,19 @@
-# Welcome !
+# Welcome on my profile !
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MarysaR&show_icons=true&hide=issues&theme=midnight-purple" alt="marysar" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marysar&show_icons=true&locale=en&theme=midnight-purple&layout=compact" alt="marysar" /></p> <br> <br>
 
-## Hello ! <br>
+### Hello ! <br>
 I am a young junior developer who loves to learn with an unwavering motivation and determination ! 
 I am currently studying Software Application Designer & Developer (BAC+3/4) with the @WildCodeSchool.
 
-### 🌱 My currently working  :  
+#### 🌱 My currently working  :  
 - PHP 8 / PHP Natif
 - Symfony 6
 - Twig
 - MVC 
 - MySQL
 
-### 👯 My currently learning :
+#### 👯 My currently learning :
 - Javascript 
 - React 
 - React Native
