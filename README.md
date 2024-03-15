@@ -10,11 +10,14 @@ I am a young junior developer who loves to learn with unwavering motivation and 
 I am currently studying Software Application Designer & Developer (BAC+5) with PMN and alternating until 2025
 
 #### 🌱 My currently working  :  
-- PHP 7/8 
-- Symfony 6
-- Twig
-- MVC 
-- MySQL
+- Vue 3
+- React
+- Node
+- Docker
+- Express
+- Magic
+- C#
+- .NET
 
 #### 👯 My currently learning :
 - Javascript 
@@ -26,6 +29,11 @@ I am currently studying Software Application Designer & Developer (BAC+5) with P
 - GraphQl
 - Docker
 - Nginx
+- PHP 7/8 
+- Symfony 6
+- Twig
+- MVC 
+- MySQL
 
 #
 
@@ -49,8 +57,6 @@ I am currently studying Software Application Designer & Developer (BAC+5) with P
  <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.bairesdev.com" target="_blank" rel="noreferrer"> <img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
- 
-
  #
   
 ### Projects Sept 2022 - Sept 2023 | Alternatively
@@ -58,8 +64,6 @@ I am currently studying Software Application Designer & Developer (BAC+5) with P
 
 #### Front <br><br>
 -- https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front <br><br> 
-
-<a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-front&show_owner=true&theme=midnight-purple" /></a> <br><br>
 
 #### Back <br><br>
 -- https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-back <br><br>
