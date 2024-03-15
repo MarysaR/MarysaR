@@ -18,6 +18,7 @@ I am currently studying Software Application Designer & Developer (BAC+5) with P
 - Magic
 - C#
 - .NET
+- SQL Server
 
 #### 👯 My currently learning :
 - Javascript 
