@@ -6,8 +6,8 @@
 
 #
 ### Hello ! <br>
-I am a young junior developer who loves to learn with an unwavering motivation and determination ! 
-I am currently studying Software Application Designer & Developer (BAC+3/4) with the @WildCodeSchool.
+I am a young junior developer who loves to learn with unwavering motivation and determination! 
+I am currently studying Software Application Designer & Developer (BAC+5) with PMN and alternating until 2025
 
 #### 🌱 My currently working  :  
 - PHP 7/8 
@@ -58,6 +58,8 @@ I am currently studying Software Application Designer & Developer (BAC+3/4) with
 
 #### Front <br><br>
 -- https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front <br><br> 
+
+<a href='https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-front'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2209-wns-hamilton-ecovoit-front&show_owner=true&theme=midnight-purple" /></a> <br><br>
 
 #### Back <br><br>
 -- https://github.com/WildCodeSchool/2209-wns-hamilton-ecovoit-back <br><br>
