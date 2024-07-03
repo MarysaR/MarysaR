@@ -6,7 +6,7 @@
 
 #
 ### Hello ! <br>
-I am a young junior developer who loves to learn with unwavering motivation and determination! 
+I am a junior developer who loves to learn with unwavering motivation and determination! 
 I am currently studying Software Application Designer & Developer (BAC+5) with PMN and alternating until 2025
 
 #### 🌱 My currently working  :  
